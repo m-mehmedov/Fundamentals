@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e1d3045c-3b2b-4d2a-bf1c-c7f8e5399db9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fundamentals.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicSyntaxMore/EnglishName_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicSyntaxMore/GamingStore_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicSyntaxMore/Messages_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicSyntaxMore/ReverseString_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicSyntaxMore/SortNumbers_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasixSyntax/Ages_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasixSyntax/Division_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasixSyntax/Login_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasixSyntax/Orders_09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasixSyntax/PadawanEquipment_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasixSyntax/PrintAndSum_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasixSyntax/RageExpenses_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasixSyntax/StrongNumber_06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasixSyntax/TriangleOfNumbers_08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasixSyntax/Vacation_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasixSyntax/VendingMachine_07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataTypesandVariables/E01_integerOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataTypesandVariables/E02_sumDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataTypesandVariables/E03_elevator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataTypesandVariables/E04_sumOfChars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataTypesandVariables/E05_printPartOfTheASCII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataTypesandVariables/E06_tripletsOfLatinLetters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataTypesandVariables/E07_waterOverflow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataTypesandVariables/E08_beerKegs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataTypesandVariables/E09_spiceMustFlow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataTypesandVariables/E10_pokeMon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KJm7PGPV0q0Rij3NSy98PCPIy2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.E10_pokeMon">
+    <configuration name="E06_tripletsOfLatinLetters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataTypesandVariables.E06_tripletsOfLatinLetters" />
+      <module name="Fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataTypesandVariables.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E07_waterOverflow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataTypesandVariables.E07_waterOverflow" />
+      <module name="Fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataTypesandVariables.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E08_beerKegs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataTypesandVariables.E08_beerKegs" />
+      <module name="Fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataTypesandVariables.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E09_spiceMustFlow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataTypesandVariables.E09_spiceMustFlow" />
+      <module name="Fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataTypesandVariables.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E10_pokeMon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataTypesandVariables.E10_pokeMon" />
+      <module name="Fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataTypesandVariables.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.E10_pokeMon" />
+        <item itemvalue="Application.E09_spiceMustFlow" />
+        <item itemvalue="Application.E08_beerKegs" />
+        <item itemvalue="Application.E07_waterOverflow" />
+        <item itemvalue="Application.E06_tripletsOfLatinLetters" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e1d3045c-3b2b-4d2a-bf1c-c7f8e5399db9" name="Changes" comment="" />
+      <created>1673700899553</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673700899553</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DataTypesandVariables/E09_spiceMustFlow.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DataTypesandVariables/E10_pokeMon.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
