@@ -4,41 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1d3045c-3b2b-4d2a-bf1c-c7f8e5399db9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fundamentals.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicSyntaxMore/EnglishName_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicSyntaxMore/GamingStore_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicSyntaxMore/Messages_05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicSyntaxMore/ReverseString_04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicSyntaxMore/SortNumbers_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasixSyntax/Ages_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasixSyntax/Division_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasixSyntax/Login_05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasixSyntax/Orders_09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasixSyntax/PadawanEquipment_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasixSyntax/PrintAndSum_04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasixSyntax/RageExpenses_11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasixSyntax/StrongNumber_06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasixSyntax/TriangleOfNumbers_08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasixSyntax/Vacation_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasixSyntax/VendingMachine_07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataTypesandVariables/E01_integerOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataTypesandVariables/E02_sumDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataTypesandVariables/E03_elevator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataTypesandVariables/E04_sumOfChars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataTypesandVariables/E05_printPartOfTheASCII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataTypesandVariables/E06_tripletsOfLatinLetters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataTypesandVariables/E07_waterOverflow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataTypesandVariables/E08_beerKegs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataTypesandVariables/E09_spiceMustFlow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataTypesandVariables/E10_pokeMon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="e1d3045c-3b2b-4d2a-bf1c-c7f8e5399db9" name="Changes" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/src/DataTypesandVariables/E11_Snowballs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +22,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="fe3aa885-119c-4cc5-93f6-f3bd31dfdb1c" />
+        <option name="url" value="https://github.com/m-mehmedov/Fundamentals.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -74,20 +55,7 @@
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.E10_pokeMon">
-    <configuration name="E06_tripletsOfLatinLetters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataTypesandVariables.E06_tripletsOfLatinLetters" />
-      <module name="Fundamentals" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DataTypesandVariables.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.E11_Snowballs">
     <configuration name="E07_waterOverflow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DataTypesandVariables.E07_waterOverflow" />
       <module name="Fundamentals" />
@@ -140,13 +108,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="E11_Snowballs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataTypesandVariables.E11_Snowballs" />
+      <module name="Fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataTypesandVariables.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.E11_Snowballs" />
         <item itemvalue="Application.E10_pokeMon" />
         <item itemvalue="Application.E09_spiceMustFlow" />
         <item itemvalue="Application.E08_beerKegs" />
         <item itemvalue="Application.E07_waterOverflow" />
-        <item itemvalue="Application.E06_tripletsOfLatinLetters" />
       </list>
     </recent_temporary>
   </component>
@@ -159,6 +140,14 @@
       <option name="presentableId" value="Default" />
       <updated>1673700899553</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1674896877169</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674896877169</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -184,20 +173,8 @@
       </map>
     </option>
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/DataTypesandVariables/E09_spiceMustFlow.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/DataTypesandVariables/E10_pokeMon.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
 </project>
