@@ -5,12 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1d3045c-3b2b-4d2a-bf1c-c7f8e5399db9" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/DataTypesandVariablesMore/E01_DataTypeFinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataTypesandVariablesMore/E02_FromLeftToTheRight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataTypesandVariablesMore/E03_FloatingEquality.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataTypesandVariablesMore/E04_Refactoring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataTypesandVariablesMore/E05_DecryptMessages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataTypesandVariablesMore/E06_BalancedBrackets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/E01_Train.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/E02_CommonElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/E03_ZigZagArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/E04_ArrayRotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/E05_TopIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/E06_EqualSums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/E07_MaxSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/E08_MagicSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/E09_ArrayModifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/E10_TreasureHunt.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,13 +64,13 @@
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.E01_DataTypeFinder">
-    <configuration name="E01_DataTypeFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataTypesandVariablesMore.E01_DataTypeFinder" />
+  <component name="RunManager" selected="Application.topIntegers_05">
+    <configuration name="E07_MaxSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.E07_MaxSequence" />
       <module name="Fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DataTypesandVariablesMore.*" />
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E03_FloatingEquality" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataTypesandVariablesMore.E03_FloatingEquality" />
+    <configuration name="E08_MagicSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.E08_MagicSum" />
       <module name="Fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DataTypesandVariablesMore.*" />
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E04_Refactoring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataTypesandVariablesMore.E04_Refactoring" />
+    <configuration name="E09_ArrayModifier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.E09_ArrayModifier" />
       <module name="Fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DataTypesandVariablesMore.*" />
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E05_DecryptMessages" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataTypesandVariablesMore.E05_DecryptMessages" />
+    <configuration name="E10_TreasureHunt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.E10_TreasureHunt" />
       <module name="Fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DataTypesandVariablesMore.*" />
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E06_BalancedBrackets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataTypesandVariablesMore.E06_BalancedBrackets" />
+    <configuration name="topIntegers_05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.topIntegers_05" />
       <module name="Fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DataTypesandVariablesMore.*" />
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.E01_DataTypeFinder" />
-        <item itemvalue="Application.E03_FloatingEquality" />
-        <item itemvalue="Application.E06_BalancedBrackets" />
-        <item itemvalue="Application.E05_DecryptMessages" />
-        <item itemvalue="Application.E04_Refactoring" />
+        <item itemvalue="Application.topIntegers_05" />
+        <item itemvalue="Application.E10_TreasureHunt" />
+        <item itemvalue="Application.E09_ArrayModifier" />
+        <item itemvalue="Application.E08_MagicSum" />
+        <item itemvalue="Application.E07_MaxSequence" />
       </list>
     </recent_temporary>
   </component>
@@ -181,31 +185,5 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/DataTypesandVariablesMore/E04_Refactoring.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/DataTypesandVariablesMore/E05_DecryptMessages.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/DataTypesandVariablesMore/E06_BalancedBrackets.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/DataTypesandVariablesMore/E03_FloatingEquality.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
