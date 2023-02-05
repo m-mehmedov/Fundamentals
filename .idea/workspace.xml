@@ -5,16 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1d3045c-3b2b-4d2a-bf1c-c7f8e5399db9" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/E01_Train.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/E02_CommonElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/E03_ZigZagArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/E04_ArrayRotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/E05_TopIntegers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/E06_EqualSums.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/E07_MaxSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/E08_MagicSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/E09_ArrayModifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/E10_TreasureHunt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/E01_SmallestOfThreeNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/E02_VowelsCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/E03_CharactersInRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/E04_PasswordValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/E05_AddAndSubtract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/E06_MiddleCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/E07_NxNMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/E08_FactorialDivision.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/E09_PalindromeIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/E10_TopNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,13 +64,13 @@
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.topIntegers_05">
-    <configuration name="E07_MaxSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.E07_MaxSequence" />
+  <component name="RunManager" selected="Application.E08_FactorialDivision">
+    <configuration name="E06_MiddleCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Methods.E06_MiddleCharacters" />
       <module name="Fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="Methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E08_MagicSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.E08_MagicSum" />
+    <configuration name="E07_NxNMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Methods.E07_NxNMatrix" />
       <module name="Fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="Methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E09_ArrayModifier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.E09_ArrayModifier" />
+    <configuration name="E08_FactorialDivision" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Methods.E08_FactorialDivision" />
       <module name="Fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="Methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E10_TreasureHunt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.E10_TreasureHunt" />
+    <configuration name="E09_PalindromeIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Methods.E09_PalindromeIntegers" />
       <module name="Fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="Methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="topIntegers_05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.topIntegers_05" />
+    <configuration name="E10_TopNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Methods.E10_TopNumber" />
       <module name="Fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="Methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.topIntegers_05" />
-        <item itemvalue="Application.E10_TreasureHunt" />
-        <item itemvalue="Application.E09_ArrayModifier" />
-        <item itemvalue="Application.E08_MagicSum" />
-        <item itemvalue="Application.E07_MaxSequence" />
+        <item itemvalue="Application.E08_FactorialDivision" />
+        <item itemvalue="Application.E10_TopNumber" />
+        <item itemvalue="Application.E09_PalindromeIntegers" />
+        <item itemvalue="Application.E07_NxNMatrix" />
+        <item itemvalue="Application.E06_MiddleCharacters" />
       </list>
     </recent_temporary>
   </component>
@@ -185,5 +185,16 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Methods/E08_FactorialDivision.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
