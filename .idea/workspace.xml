@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1d3045c-3b2b-4d2a-bf1c-c7f8e5399db9" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/Lists/E07_AppendArraysNew.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lists/E08_AnonymousThreat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lists/E09_PokemonDontGo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lists/E10_SoftUniCoursePlanning.java" afterDir="false" />
+    <list default="true" id="e1d3045c-3b2b-4d2a-bf1c-c7f8e5399db9" name="Changes" comment="List solutions">
+      <change afterPath="$PROJECT_DIR$/src/ExamPreparation/E01_CounterStrike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamPreparation/E02_TreasureHunt.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lists/E05_BombNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lists/E05_BombNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lists/E07_AppendArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lists/E07_AppendArrays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,13 +65,13 @@
       <recent name="Lists" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.E08_AnonymousThreat">
-    <configuration name="E05_BombNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lists.E05_BombNumbers" />
+  <component name="RunManager" selected="Application.E02_TreasureHunt">
+    <configuration name="E01_CounterStrike" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExamPreparation.E01_CounterStrike" />
       <module name="Fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lists.*" />
+          <option name="PATTERN" value="ExamPreparation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E07_AppendArraysNew" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lists.E07_AppendArraysNew" />
+    <configuration name="E02_TreasureHunt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExamPreparation.E02_TreasureHunt" />
       <module name="Fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lists.*" />
+          <option name="PATTERN" value="ExamPreparation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.E02_TreasureHunt" />
+        <item itemvalue="Application.E01_CounterStrike" />
         <item itemvalue="Application.E08_AnonymousThreat" />
         <item itemvalue="Application.E10_SoftUniCoursePlanning" />
         <item itemvalue="Application.E09_PokemonDontGo" />
-        <item itemvalue="Application.E07_AppendArraysNew" />
-        <item itemvalue="Application.E05_BombNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -175,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676112269417</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="List solutions">
+      <created>1676225037765</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676225037765</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -203,7 +206,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="List solutions" />
+    <option name="LAST_COMMIT_MESSAGE" value="List solutions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -233,11 +237,16 @@
           <line>19</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExamPreparation/E01_CounterStrike.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
-        <watch expression="lessons" />
+        <watch expression="chest" />
       </configuration>
     </watches-manager>
   </component>
