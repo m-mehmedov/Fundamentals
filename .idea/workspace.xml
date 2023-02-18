@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1d3045c-3b2b-4d2a-bf1c-c7f8e5399db9" name="Changes" comment="Exam preparation 13.2 problems 1 and 2 solutions.">
-      <change afterPath="$PROJECT_DIR$/src/ExamPreparation/ComputerStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamPreparation/ArrayModifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamPreparation/ShootForTheWin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamPreparation/SoftUniReception.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +66,20 @@
       <recent name="Lists" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ComputerStore">
+  <component name="RunManager" selected="Application.ShootForTheWin">
+    <configuration name="ArrayModifier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExamPreparation.ArrayModifier" />
+      <module name="Fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExamPreparation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ComputerStore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExamPreparation.ComputerStore" />
       <module name="Fundamentals" />
@@ -78,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E02_TheLift" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExamPreparation150223.E02_TheLift" />
+    <configuration name="E09_ArrayModifier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.E09_ArrayModifier" />
       <module name="Fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExamPreparation150223.*" />
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E03_MemoryGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExamPreparation130223.E03_MemoryGame" />
+    <configuration name="ShootForTheWin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExamPreparation.ShootForTheWin" />
       <module name="Fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExamPreparation130223.*" />
+          <option name="PATTERN" value="ExamPreparation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,21 +119,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E03_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExamPreparation150223.E03_Number" />
-      <module name="Fundamentals" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ExamPreparation150223.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ManOWar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExamPreparation.ManOWar" />
+    <configuration name="SoftUniReception" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExamPreparation.SoftUniReception" />
       <module name="Fundamentals" />
       <extension name="coverage">
         <pattern>
@@ -132,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ShootForTheWin" />
+        <item itemvalue="Application.ArrayModifier" />
+        <item itemvalue="Application.E09_ArrayModifier" />
+        <item itemvalue="Application.SoftUniReception" />
         <item itemvalue="Application.ComputerStore" />
-        <item itemvalue="Application.ManOWar" />
-        <item itemvalue="Application.E03_MemoryGame" />
-        <item itemvalue="Application.E03_Number" />
-        <item itemvalue="Application.E02_TheLift" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +193,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676713035013</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Exam preparation 13.2 problems 1 and 2 solutions.">
+      <created>1676714149939</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1676714149939</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -265,6 +274,16 @@
           <url>file://$PROJECT_DIR$/src/ExamPreparation/ManOWar.java</url>
           <line>67</line>
           <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExamPreparation/SoftUniReception.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExamPreparation/ShootForTheWin.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="28" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
