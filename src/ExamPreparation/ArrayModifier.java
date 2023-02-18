@@ -42,7 +42,6 @@ public class ArrayModifier {
                 default: break;
             }
             inputLine = scanner.nextLine();
-
         }
         System.out.println(String.join(" ",numbersArray.toString().replaceAll("[\\[\\],]","").replaceAll(" ", ", ")));
     }
