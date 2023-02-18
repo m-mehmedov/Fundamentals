@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1d3045c-3b2b-4d2a-bf1c-c7f8e5399db9" name="Changes" comment="Exam preparation 13.2 problems 1 and 2 solutions.">
-      <change afterPath="$PROJECT_DIR$/src/ExamPreparation/MovingTarget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamPreparation/BonusScoringSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamPreparation/GuineaPig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamPreparation/HeartDelivery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamPreparation/Inventory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamPreparation/MuOnline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamPreparation/ShoppingList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamPreparation/ArrayModifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamPreparation/ArrayModifier.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,9 +69,9 @@
       <recent name="Lists" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MovingTarget">
-    <configuration name="ArrayModifier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExamPreparation.ArrayModifier" />
+  <component name="RunManager" selected="Application.Inventory">
+    <configuration name="BonusScoringSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExamPreparation.BonusScoringSystem" />
       <module name="Fundamentals" />
       <extension name="coverage">
         <pattern>
@@ -79,21 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E09_ArrayModifier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.E09_ArrayModifier" />
-      <module name="Fundamentals" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MovingTarget" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExamPreparation.MovingTarget" />
+    <configuration name="HeartDelivery" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExamPreparation.HeartDelivery" />
       <module name="Fundamentals" />
       <extension name="coverage">
         <pattern>
@@ -105,8 +96,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShootForTheWin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExamPreparation.ShootForTheWin" />
+    <configuration name="Inventory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExamPreparation.Inventory" />
       <module name="Fundamentals" />
       <extension name="coverage">
         <pattern>
@@ -118,8 +109,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SoftUniReception" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExamPreparation.SoftUniReception" />
+    <configuration name="MuOnline" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExamPreparation.MuOnline" />
+      <module name="Fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExamPreparation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShoppingList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExamPreparation.ShoppingList" />
       <module name="Fundamentals" />
       <extension name="coverage">
         <pattern>
@@ -133,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MovingTarget" />
-        <item itemvalue="Application.ShootForTheWin" />
-        <item itemvalue="Application.ArrayModifier" />
-        <item itemvalue="Application.E09_ArrayModifier" />
-        <item itemvalue="Application.SoftUniReception" />
+        <item itemvalue="Application.Inventory" />
+        <item itemvalue="Application.MuOnline" />
+        <item itemvalue="Application.BonusScoringSystem" />
+        <item itemvalue="Application.HeartDelivery" />
+        <item itemvalue="Application.ShoppingList" />
       </list>
     </recent_temporary>
   </component>
@@ -206,7 +210,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676718180092</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Exam preparation 13.2 problems 1 and 2 solutions.">
+      <created>1676721023511</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1676721023511</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -295,6 +306,21 @@
           <url>file://$PROJECT_DIR$/src/ExamPreparation/MovingTarget.java</url>
           <line>42</line>
           <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExamPreparation/HeartDelivery.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExamPreparation/BonusScoringSystem.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExamPreparation/Inventory.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="39" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
