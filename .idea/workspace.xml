@@ -4,10 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1d3045c-3b2b-4d2a-bf1c-c7f8e5399db9" name="Changes" comment="List solutions">
-      <change afterPath="$PROJECT_DIR$/src/ExamPreparation/E01_CounterStrike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamPreparation/E02_TreasureHunt.java" afterDir="false" />
+    <list default="true" id="e1d3045c-3b2b-4d2a-bf1c-c7f8e5399db9" name="Changes" comment="Exam preparation 13.2 problems 1 and 2 solutions.">
+      <change afterPath="$PROJECT_DIR$/src/ExamPreparation/ManOWar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamPreparation130223/E03_MemoryGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamPreparation150223/E01_BlackFlag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamPreparation150223/E02_TheLift.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamPreparation150223/E03_Number.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamPreparation/E01_CounterStrike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamPreparation130223/E01_CounterStrike.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamPreparation/E02_TreasureHunt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamPreparation130223/E02_TreasureHunt.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,65 +70,65 @@
       <recent name="Lists" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.E02_TreasureHunt">
-    <configuration name="E01_CounterStrike" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExamPreparation.E01_CounterStrike" />
+  <component name="RunManager" selected="Application.ManOWar">
+    <configuration name="E01_BlackFlag" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExamPreparation150223.E01_BlackFlag" />
+      <module name="Fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExamPreparation150223.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E02_TheLift" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExamPreparation150223.E02_TheLift" />
+      <module name="Fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExamPreparation150223.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E03_MemoryGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExamPreparation130223.E03_MemoryGame" />
+      <module name="Fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExamPreparation130223.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E03_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExamPreparation150223.E03_Number" />
+      <module name="Fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExamPreparation150223.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManOWar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExamPreparation.ManOWar" />
       <module name="Fundamentals" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ExamPreparation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="E02_TreasureHunt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExamPreparation.E02_TreasureHunt" />
-      <module name="Fundamentals" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ExamPreparation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="E08_AnonymousThreat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lists.E08_AnonymousThreat" />
-      <module name="Fundamentals" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lists.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="E09_PokemonDontGo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lists.E09_PokemonDontGo" />
-      <module name="Fundamentals" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lists.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="E10_SoftUniCoursePlanning" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lists.E10_SoftUniCoursePlanning" />
-      <module name="Fundamentals" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lists.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.E02_TreasureHunt" />
-        <item itemvalue="Application.E01_CounterStrike" />
-        <item itemvalue="Application.E08_AnonymousThreat" />
-        <item itemvalue="Application.E10_SoftUniCoursePlanning" />
-        <item itemvalue="Application.E09_PokemonDontGo" />
+        <item itemvalue="Application.ManOWar" />
+        <item itemvalue="Application.E03_MemoryGame" />
+        <item itemvalue="Application.E03_Number" />
+        <item itemvalue="Application.E02_TheLift" />
+        <item itemvalue="Application.E01_BlackFlag" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676225037765</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Exam preparation 13.2 problems 1 and 2 solutions.">
+      <created>1676305518301</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1676305518301</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -207,7 +219,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="List solutions" />
-    <option name="LAST_COMMIT_MESSAGE" value="List solutions" />
+    <MESSAGE value="Exam preparation 13.2 problems 1 and 2 solutions." />
+    <option name="LAST_COMMIT_MESSAGE" value="Exam preparation 13.2 problems 1 and 2 solutions." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -238,16 +251,21 @@
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ExamPreparation/E01_CounterStrike.java</url>
+          <url>file://$PROJECT_DIR$/src/ExamPreparation130223/E01_CounterStrike.java</url>
           <line>12</line>
           <option name="timeStamp" value="15" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExamPreparation150223/E01_BlackFlag.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExamPreparation/ManOWar.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="chest" />
-      </configuration>
-    </watches-manager>
   </component>
 </project>
