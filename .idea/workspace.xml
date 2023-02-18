@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1d3045c-3b2b-4d2a-bf1c-c7f8e5399db9" name="Changes" comment="Exam preparation 13.2 problems 1 and 2 solutions.">
-      <change afterPath="$PROJECT_DIR$/src/ExamPreparation/ManOWar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamPreparation130223/E03_MemoryGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamPreparation150223/E01_BlackFlag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamPreparation150223/E02_TheLift.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamPreparation150223/E03_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamPreparation/ComputerStore.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamPreparation/E01_CounterStrike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamPreparation130223/E01_CounterStrike.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamPreparation/E02_TreasureHunt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamPreparation130223/E02_TreasureHunt.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,13 +64,13 @@
       <recent name="Lists" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ManOWar">
-    <configuration name="E01_BlackFlag" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExamPreparation150223.E01_BlackFlag" />
+  <component name="RunManager" selected="Application.ComputerStore">
+    <configuration name="ComputerStore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExamPreparation.ComputerStore" />
       <module name="Fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExamPreparation150223.*" />
+          <option name="PATTERN" value="ExamPreparation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ComputerStore" />
         <item itemvalue="Application.ManOWar" />
         <item itemvalue="Application.E03_MemoryGame" />
         <item itemvalue="Application.E03_Number" />
         <item itemvalue="Application.E02_TheLift" />
-        <item itemvalue="Application.E01_BlackFlag" />
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676305518301</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Exam preparation 13.2 problems 1 and 2 solutions.">
+      <created>1676713035013</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1676713035013</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -262,8 +263,8 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/ExamPreparation/ManOWar.java</url>
-          <line>39</line>
-          <option name="timeStamp" value="22" />
+          <line>67</line>
+          <option name="timeStamp" value="23" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
