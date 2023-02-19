@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1d3045c-3b2b-4d2a-bf1c-c7f8e5399db9" name="Changes" comment="Exam preparation 13.2 problems 1 and 2 solutions.">
-      <change afterPath="$PROJECT_DIR$/src/ExamPreparation/BonusScoringSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamPreparation/GuineaPig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamPreparation/HeartDelivery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamPreparation/Inventory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamPreparation/MuOnline.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExamPreparation/ShoppingList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MidExam/E01_BurgerBus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MidExam/E02_Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MidExam/E03_TheAngryCat.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,13 +66,13 @@
       <recent name="Lists" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Inventory">
-    <configuration name="BonusScoringSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExamPreparation.BonusScoringSystem" />
+  <component name="RunManager" selected="Application.E03_TheAngryCat">
+    <configuration name="E01_BurgerBus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MidExam.E01_BurgerBus" />
       <module name="Fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExamPreparation.*" />
+          <option name="PATTERN" value="MidExam.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +80,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HeartDelivery" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExamPreparation.HeartDelivery" />
+    <configuration name="E02_Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MidExam.E02_Numbers" />
       <module name="Fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExamPreparation.*" />
+          <option name="PATTERN" value="MidExam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E03_TheAngryCat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MidExam.E03_TheAngryCat" />
+      <module name="Fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MidExam.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,26 +132,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShoppingList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExamPreparation.ShoppingList" />
-      <module name="Fundamentals" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ExamPreparation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.E03_TheAngryCat" />
+        <item itemvalue="Application.E02_Numbers" />
+        <item itemvalue="Application.E01_BurgerBus" />
         <item itemvalue="Application.Inventory" />
         <item itemvalue="Application.MuOnline" />
-        <item itemvalue="Application.BonusScoringSystem" />
-        <item itemvalue="Application.HeartDelivery" />
-        <item itemvalue="Application.ShoppingList" />
       </list>
     </recent_temporary>
   </component>
@@ -217,7 +214,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676721023511</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Exam preparation 13.2 problems 1 and 2 solutions.">
+      <created>1676731150511</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1676731150511</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -318,9 +322,9 @@
           <option name="timeStamp" value="36" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ExamPreparation/Inventory.java</url>
-          <line>44</line>
-          <option name="timeStamp" value="39" />
+          <url>file://$PROJECT_DIR$/src/MidExam/E02_Numbers.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="37" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
