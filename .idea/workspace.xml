@@ -4,10 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1d3045c-3b2b-4d2a-bf1c-c7f8e5399db9" name="Changes" comment="Exam preparation 13.2 problems 1 and 2 solutions.">
-      <change afterPath="$PROJECT_DIR$/src/MidExam/E01_BurgerBus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MidExam/E02_Numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MidExam/E03_TheAngryCat.java" afterDir="false" />
+    <list default="true" id="e1d3045c-3b2b-4d2a-bf1c-c7f8e5399db9" name="Changes" comment="Exam solutions.">
+      <change afterPath="$PROJECT_DIR$/src/OaC_E01_AdvertismentMessage/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OaC_E02_Articles/Article.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OaC_E02_Articles/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OaC_E03_OpinionPoll/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OaC_E03_OpinionPoll/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OaC_E04_Students/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OaC_E04_Students/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OaC_E05_VehicleCatalogue/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OaC_E05_VehicleCatalogue/Vehicle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,13 +72,13 @@
       <recent name="Lists" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.E03_TheAngryCat">
-    <configuration name="E01_BurgerBus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MidExam.E01_BurgerBus" />
+  <component name="RunManager" selected="Application.OaC_E05_VehicleCatalogue.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OaC_E01_AdvertismentMessage.Main" />
       <module name="Fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MidExam.*" />
+          <option name="PATTERN" value="OaC_E01_AdvertismentMessage.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E02_Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MidExam.E02_Numbers" />
+    <configuration name="OaC_E02_Articles.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OaC_E02_Articles.Main" />
       <module name="Fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MidExam.*" />
+          <option name="PATTERN" value="OaC_E02_Articles.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E03_TheAngryCat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MidExam.E03_TheAngryCat" />
+    <configuration name="OaC_E03_OpinionPoll.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OaC_E03_OpinionPoll.Main" />
       <module name="Fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MidExam.*" />
+          <option name="PATTERN" value="OaC_E03_OpinionPoll.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Inventory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExamPreparation.Inventory" />
+    <configuration name="OaC_E04_Students.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OaC_E04_Students.Main" />
       <module name="Fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExamPreparation.*" />
+          <option name="PATTERN" value="OaC_E04_Students.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MuOnline" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExamPreparation.MuOnline" />
+    <configuration name="OaC_E05_VehicleCatalogue.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OaC_E05_VehicleCatalogue.Main" />
       <module name="Fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExamPreparation.*" />
+          <option name="PATTERN" value="OaC_E05_VehicleCatalogue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.E03_TheAngryCat" />
-        <item itemvalue="Application.E02_Numbers" />
-        <item itemvalue="Application.E01_BurgerBus" />
-        <item itemvalue="Application.Inventory" />
-        <item itemvalue="Application.MuOnline" />
+        <item itemvalue="Application.OaC_E05_VehicleCatalogue.Main" />
+        <item itemvalue="Application.OaC_E04_Students.Main" />
+        <item itemvalue="Application.OaC_E03_OpinionPoll.Main" />
+        <item itemvalue="Application.OaC_E02_Articles.Main" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -221,7 +227,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676731150511</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Exam solutions.">
+      <created>1676793473821</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1676793473821</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -251,7 +264,8 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="List solutions" />
     <MESSAGE value="Exam preparation 13.2 problems 1 and 2 solutions." />
-    <option name="LAST_COMMIT_MESSAGE" value="Exam preparation 13.2 problems 1 and 2 solutions." />
+    <MESSAGE value="Exam solutions." />
+    <option name="LAST_COMMIT_MESSAGE" value="Exam solutions." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -322,8 +336,8 @@
           <option name="timeStamp" value="36" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/MidExam/E02_Numbers.java</url>
-          <line>19</line>
+          <url>file://$PROJECT_DIR$/src/OaC_E02_Articles/Main.java</url>
+          <line>32</line>
           <option name="timeStamp" value="37" />
         </line-breakpoint>
       </breakpoints>
