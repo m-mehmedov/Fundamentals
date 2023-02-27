@@ -6,9 +6,9 @@ public class E10_SoftUniExamResults {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        LinkedHashMap<List<String>, Integer> resultsMap = new LinkedHashMap<>();
+        LinkedHashMap<List<String>, Integer> bestSubmissionsMap = new LinkedHashMap<>();
         LinkedHashMap<String, Integer> usersPointsMap = new LinkedHashMap<>();
-        LinkedHashMap<String, Integer> submissionsMap = new LinkedHashMap<>();
+        LinkedHashMap<String, Integer> submissionsCountMap = new LinkedHashMap<>();
 
         String inputLine = scanner.nextLine();
 
@@ -28,21 +28,21 @@ public class E10_SoftUniExamResults {
                 currentSubmission.add(userName);
                 currentSubmission.add(language);
 
-                if (resultsMap.containsKey(currentSubmission)){
+                if (bestSubmissionsMap.containsKey(currentSubmission)){
                     addPoints = false;
-                    int oldPoints = resultsMap.get(currentSubmission);
+                    int oldPoints = bestSubmissionsMap.get(currentSubmission);
                     if (oldPoints > points)
                         points = oldPoints;
                 }
-                resultsMap.put(currentSubmission,points);
+                bestSubmissionsMap.put(currentSubmission,points);
 
                 if (usersPointsMap.containsKey(userName) && addPoints)
                     points += usersPointsMap.get(userName);
                 usersPointsMap.put(userName, points);
 
-                if (submissionsMap.containsKey(language))
-                    submissions += submissionsMap.get(language);
-                submissionsMap.put(language, submissions);
+                if (submissionsCountMap.containsKey(language))
+                    submissions += submissionsCountMap.get(language);
+                submissionsCountMap.put(language, submissions);
 
             }
 
@@ -53,7 +53,7 @@ public class E10_SoftUniExamResults {
             System.out.println(entry.getKey() + " | " + entry.getValue());
 
         System.out.println("Submissions:");
-        for (Map.Entry<String, Integer> entry : submissionsMap.entrySet())
+        for (Map.Entry<String, Integer> entry : submissionsCountMap.entrySet())
             System.out.println(entry.getKey() + " - " + entry.getValue());
     }
 }
