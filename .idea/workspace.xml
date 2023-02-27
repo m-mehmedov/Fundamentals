@@ -4,16 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1d3045c-3b2b-4d2a-bf1c-c7f8e5399db9" name="Changes" comment="Exam solutions.">
-      <change afterPath="$PROJECT_DIR$/src/OaC_E01_AdvertismentMessage/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OaC_E02_Articles/Article.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OaC_E02_Articles/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OaC_E03_OpinionPoll/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OaC_E03_OpinionPoll/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OaC_E04_Students/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OaC_E04_Students/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OaC_E05_VehicleCatalogue/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OaC_E05_VehicleCatalogue/Vehicle.java" afterDir="false" />
+    <list default="true" id="e1d3045c-3b2b-4d2a-bf1c-c7f8e5399db9" name="Changes" comment="Objects and classes solutions.">
+      <change afterPath="$PROJECT_DIR$/src/AssociativeArrays/E01_CountChars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AssociativeArrays/E02_AMinerTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AssociativeArrays/E03_Orders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AssociativeArrays/E04_SoftUniParking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AssociativeArrays/E05_Courses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AssociativeArrays/E06_StudentAcademy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AssociativeArrays/E07_LegendaryFarming.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AssociativeArrays/E08_CompanyUsers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AssociativeArrays/E09_ForceBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OaC_E06_OrderByAge/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OaC_E06_OrderByAge/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/groomingSalon/GroomingSalon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/groomingSalon/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/groomingSalon/Pet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,13 +77,13 @@
       <recent name="Lists" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.OaC_E05_VehicleCatalogue.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OaC_E01_AdvertismentMessage.Main" />
+  <component name="RunManager" selected="Application.E09_ForceBook">
+    <configuration name="E05_Courses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AssociativeArrays.E05_Courses" />
       <module name="Fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OaC_E01_AdvertismentMessage.*" />
+          <option name="PATTERN" value="AssociativeArrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OaC_E02_Articles.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OaC_E02_Articles.Main" />
+    <configuration name="E06_StudentAcademy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AssociativeArrays.E06_StudentAcademy" />
       <module name="Fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OaC_E02_Articles.*" />
+          <option name="PATTERN" value="AssociativeArrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OaC_E03_OpinionPoll.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OaC_E03_OpinionPoll.Main" />
+    <configuration name="E07_LegendaryFarming" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AssociativeArrays.E07_LegendaryFarming" />
       <module name="Fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OaC_E03_OpinionPoll.*" />
+          <option name="PATTERN" value="AssociativeArrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OaC_E04_Students.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OaC_E04_Students.Main" />
+    <configuration name="E08_CompanyUsers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AssociativeArrays.E08_CompanyUsers" />
       <module name="Fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OaC_E04_Students.*" />
+          <option name="PATTERN" value="AssociativeArrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OaC_E05_VehicleCatalogue.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OaC_E05_VehicleCatalogue.Main" />
+    <configuration name="E09_ForceBook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AssociativeArrays.E09_ForceBook" />
       <module name="Fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OaC_E05_VehicleCatalogue.*" />
+          <option name="PATTERN" value="AssociativeArrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.OaC_E05_VehicleCatalogue.Main" />
-        <item itemvalue="Application.OaC_E04_Students.Main" />
-        <item itemvalue="Application.OaC_E03_OpinionPoll.Main" />
-        <item itemvalue="Application.OaC_E02_Articles.Main" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.E09_ForceBook" />
+        <item itemvalue="Application.E08_CompanyUsers" />
+        <item itemvalue="Application.E07_LegendaryFarming" />
+        <item itemvalue="Application.E06_StudentAcademy" />
+        <item itemvalue="Application.E05_Courses" />
       </list>
     </recent_temporary>
   </component>
@@ -234,7 +239,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676793473821</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Objects and classes solutions.">
+      <created>1677261877781</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1677261877781</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -265,7 +277,8 @@
     <MESSAGE value="List solutions" />
     <MESSAGE value="Exam preparation 13.2 problems 1 and 2 solutions." />
     <MESSAGE value="Exam solutions." />
-    <option name="LAST_COMMIT_MESSAGE" value="Exam solutions." />
+    <MESSAGE value="Objects and classes solutions." />
+    <option name="LAST_COMMIT_MESSAGE" value="Objects and classes solutions." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -340,7 +353,40 @@
           <line>32</line>
           <option name="timeStamp" value="37" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AssociativeArrays/E06_StudentAcademy.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AssociativeArrays/E07_LegendaryFarming.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AssociativeArrays/E08_CompanyUsers.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AssociativeArrays/E09_ForceBook.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.ConcurrentModificationException" package="java.util" />
+          <option name="timeStamp" value="43" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="55" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="forceSidesMap" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
