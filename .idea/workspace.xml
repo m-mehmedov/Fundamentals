@@ -4,21 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1d3045c-3b2b-4d2a-bf1c-c7f8e5399db9" name="Changes" comment="Objects and classes solutions.">
-      <change afterPath="$PROJECT_DIR$/src/AssociativeArrays/E01_CountChars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssociativeArrays/E02_AMinerTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssociativeArrays/E03_Orders.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssociativeArrays/E04_SoftUniParking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssociativeArrays/E05_Courses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssociativeArrays/E06_StudentAcademy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssociativeArrays/E07_LegendaryFarming.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssociativeArrays/E08_CompanyUsers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssociativeArrays/E09_ForceBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OaC_E06_OrderByAge/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OaC_E06_OrderByAge/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/groomingSalon/GroomingSalon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/groomingSalon/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/groomingSalon/Pet.java" afterDir="false" />
+    <list default="true" id="e1d3045c-3b2b-4d2a-bf1c-c7f8e5399db9" name="Changes" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/src/AssociativeArrays/E10_SoftUniExamResults.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,20 +64,7 @@
       <recent name="Lists" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.E09_ForceBook">
-    <configuration name="E05_Courses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AssociativeArrays.E05_Courses" />
-      <module name="Fundamentals" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AssociativeArrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.E10_SoftUniExamResults">
     <configuration name="E06_StudentAcademy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AssociativeArrays.E06_StudentAcademy" />
       <module name="Fundamentals" />
@@ -143,13 +117,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="E10_SoftUniExamResults" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AssociativeArrays.E10_SoftUniExamResults" />
+      <module name="Fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AssociativeArrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.E10_SoftUniExamResults" />
         <item itemvalue="Application.E09_ForceBook" />
         <item itemvalue="Application.E08_CompanyUsers" />
         <item itemvalue="Application.E07_LegendaryFarming" />
         <item itemvalue="Application.E06_StudentAcademy" />
-        <item itemvalue="Application.E05_Courses" />
       </list>
     </recent_temporary>
   </component>
@@ -246,7 +233,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677261877781</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Initial commit">
+      <created>1677516796301</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1677516796301</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -273,12 +267,12 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Initial commit" />
     <MESSAGE value="List solutions" />
     <MESSAGE value="Exam preparation 13.2 problems 1 and 2 solutions." />
     <MESSAGE value="Exam solutions." />
     <MESSAGE value="Objects and classes solutions." />
-    <option name="LAST_COMMIT_MESSAGE" value="Objects and classes solutions." />
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -385,7 +379,7 @@
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
-        <watch expression="forceSidesMap" />
+        <watch expression="submissionsMap" />
       </configuration>
     </watches-manager>
   </component>
